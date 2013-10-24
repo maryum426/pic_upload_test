@@ -3,8 +3,8 @@ document.addEventListener("deviceready", init, false);
 
 function init() {
    
-    var parseAPPID = "x";
-    var parseJSID = "x";
+    var parseAPPID = "h2w6h5BLXG3rak7sQ2eyEiTKRgu3UPzQcjRzIFCu";
+    var parseJSID = "gQ7DmgLGTDNNl4Nl9l3cmJkSluy4y2hEPVaNSH2k";
     
     //Initialize Parse
     Parse.initialize(parseAPPID,parseJSID);
